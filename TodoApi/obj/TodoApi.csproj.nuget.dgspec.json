@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\wanxu\\Desktop\\WebAPI  NetCore\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\wanxu\\Desktop\\WebAPI  NetCore\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\wanxu\\Desktop\\WebAPI  NetCore\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\wanxu\\Desktop\\WebAPI  NetCore\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\wanxu\\Desktop\\WebAPI  NetCore\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\wanxu\\Desktop\\WebAPI  NetCore\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "c:\\Users\\wanxu\\Desktop\\WebAPI  NetCore\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\wanxu\\Desktop\\WebAPI  NetCore\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\wanxu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\wanxu\\Desktop\\WebAPI  NetCore\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\wanxu\\Desktop\\WebAPI  NetCore\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wanxu\\AppData\\Roaming\\NuGet\\NuGet.Config"
